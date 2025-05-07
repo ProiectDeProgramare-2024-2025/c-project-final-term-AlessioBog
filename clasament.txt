@@ -1,0 +1,11 @@
+Alessio 15.00
+Mihai 15.00
+Bogdan 14.00
+Mihai 13.00
+Bogdan 12.00
+Mihai 12.00
+Razvan 12.00
+Alessio 8.00
+Mihai 5.00
+Razvan 2.00
+ale 1.00
