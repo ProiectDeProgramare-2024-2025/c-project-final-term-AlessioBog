@@ -103,7 +103,7 @@ float intrebare1() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m1: Care este primul pas recomandat pentru a deveni milionar?\033[0m\n\n");
+    printf("\033[0;33m1: Care este primul pas recomandat pentru a deveni \033[0;32mmilionar?\033[0m\n\n");
     printf("1) Castiga la loto\n");
     printf("2) Investeste constant si inteligent\n");
     printf("3) Primesti o mostenire\n");
@@ -156,7 +156,7 @@ float intrebare2() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m2: Care dintre urmatoarele este o trasatura comuna a milionarilor?\033[0m\n\n");
+    printf("\033[0;33m2: Care dintre urmatoarele este o trasatura comuna a \033[0;32mmilionarilor?\033[0m\n\n");
     printf("1) Cheltuieste mai mult decat castiga\n");
     printf("2) Evita orice forma de investitii\n");
     printf("3) Are un mindset de crestere financiara\n");
@@ -209,7 +209,7 @@ float intrebare3() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m3: Ce procent din milionarii din lume si-au construit averea singuri?\033[0m\n\n");
+    printf("\033[0;33m3: Ce procent din \033[0;32mmilionarii \033[0;33mdin lume si-au construit averea singuri?\033[0m\n\n");
     printf("1) 20%\n");
     printf("2) 50%\n");
     printf("3) 80%\n");
@@ -315,7 +315,7 @@ float intrebare5() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m5: Ce principiu al milionarilor spune ca \"banii trebuie sa lucreze pentru tine\"?\033[0m\n\n");
+    printf("\033[0;33m5: Ce principiu al \033[0;32mmilionarilor \033[0;33mspune ca \"banii trebuie sa lucreze pentru tine\"?\033[0m\n\n");
     printf("1) Cheltuielile excesive\n");
     printf("2) Dobanda compusa\n");
     printf("3) Indatorarea maxima\n");
@@ -368,7 +368,7 @@ float intrebare6() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m6: Cat de important este bugetul in devenirea milionar?\033[0m\n\n");
+    printf("\033[0;33m6: Cat de important este bugetul in devenirea \033[0;32mmilionar?\033[0m\n\n");
     printf("1) Deloc important\n");
     printf("2) Putin important\n");
     printf("3) Foarte important\n");
@@ -421,7 +421,7 @@ float intrebare7() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m7: Care dintre urmatoarele NU este o sursa comuna de venit pentru milionari?\033[0m\n\n");
+    printf("\033[0;33m7: Care dintre urmatoarele NU este o sursa comuna de venit pentru \033[0;32mmilionari?\033[0m\n\n");
     printf("1) Investitii in actiuni\n");
     printf("2) Intreprinderi proprii\n");
     printf("3) Salariu fix la un loc de munca obisnuit\n");
@@ -580,7 +580,7 @@ float intrebare10() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m10: Cine a spus: \"Nu conteaza cat de mult castigi, ci cat de mult retii\"?\033[0m\n\n");
+    printf("\033[0;33m10: Cine a spus: \033[0;36m\"Nu conteaza cat de mult castigi, ci cat de mult retii\"\033[0m?\033[0m\n\n");
     printf("1) Warren Buffett\n");
     printf("2) Bill Gates\n");
     printf("3) Jeff Bezos\n");
@@ -633,7 +633,7 @@ float intrebare11() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m11: Cat timp ia, in medie, sa devii milionar prin economisire si investitii?\033[0m\n\n");
+    printf("\033[0;33m11: Cat timp ia, in medie, sa devii \033[0;32mmilionar\033[0;33m prin economisire si investitii?\033[0m\n\n");
     printf("1) 1-2 ani\n");
     printf("2) 5-10 ani\n");
     printf("3) 15-20 ani\n");
@@ -686,7 +686,7 @@ float intrebare12() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m12: Care este cea mai mare greseala financiara care impiedica oamenii sa devina milionari?\033[0m\n\n");
+    printf("\033[0;33m12: Care este cea mai mare greseala financiara care impiedica oamenii sa devina \033[0;32mmilionari?\033[0m\n\n");
     printf("1) Cheltuieli excesive si datorii\n");
     printf("2) Investitii prea sigure\n");
     printf("3) Castigarea unui salariu mare\n");
@@ -739,7 +739,7 @@ float intrebare13() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m13: Ce carte este considerata \"Biblia independentei financiare\"?\033[0m\n\n");
+    printf("\033[0;33m13: Ce carte este considerata \033[0m\"Biblia independentei financiare\"?\033[0m\n\n");
     printf("1) \"Rich Dad Poor Dad\" - Robert Kiyosaki\n");
     printf("2) \"Think and Grow Rich\" - Napoleon Hill\n");
     printf("3) \"The Millionaire Next Door\" - Thomas Stanley\n");
@@ -792,7 +792,7 @@ float intrebare14() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m14: Ce procent din milionari citeste cel putin o carte pe luna?\033[0m\n\n");
+    printf("\033[0;33m14: Ce procent din \033[0;32mmilionari \033[0;33mciteste cel putin o carte pe luna?\033[0m\n\n");
     printf("1) 20%\n");
     printf("2) 50%\n");
     printf("3) 75%\n");
@@ -845,7 +845,7 @@ float intrebare15() {
     int raspuns = 0;
     bool valid_input = false;
 
-    printf("\033[0;33m15: Care este cea mai buna mentalitate pentru a deveni milionar?\033[0m\n\n");
+    printf("\033[0;33m15: Care este cea mai buna mentalitate pentru a deveni \033[0;32mmilionar?\033[0m\n\n");
     printf("1) \"Vreau sa fiu rapid bogat\"\n");
     printf("2) \"Vreau sa muncesc cat mai putin\"\n");
     printf("3) \"Vreau sa invat si sa cresc constant\"\n");
@@ -911,16 +911,11 @@ int main()
     while (1)
     {
         system("cls");
-        printf("\033[0;33m");
-        printf("- Vrei sa fii milionar? -\n");
-        printf("\033[0;35m");
-        printf("1 - Start joc\n");
-        printf("\033[0;31m");
-        printf("2 - Vezi clasament\n");
-        printf("\033[0;32m");
-        printf("3 - Vezi scor pe nume\n");
-        printf("\033[0m");
-        printf("4 - Iesire\n");
+        printf("- Vrei sa fii \033[0;32mmilionar?\033[0m -\n");
+        printf("1 - \033[0;35mStart\033[0mjoc\n");
+        printf("2 - Vezi \033[0;31mclasament\033[0m\n");
+        printf("3 - Vezi \033[0;33mscor \033[0mpe \033[0;32m nume\033[0m\n");
+        printf("4 - \033[0;31mIesire\033[0m\n");
 
         int choice = alegere();
 
